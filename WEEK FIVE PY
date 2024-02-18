@@ -1,0 +1,28 @@
+data={''name':['alice']'bob','charlie','david','eve'],'age':[25,30,35,40,45],'salary':[50000,60000,75000,90000,80000]}
+df=pd.dataframe(data)
+print(data)
+
+      summary_stats=df.discribe()
+      print(summary_stast)
+      mean_salaryu=df['salary'].mean()
+      median_age=df['age'].median()
+      mode_name=df['name'].mode()[0]
+
+      print('mean salary:', mean_salary)
+      print('median age:',median_age)
+      print('mode name:',mode_name)
+
+      correlation=df.corr()
+      print(correlation)
+
+      import metplotlib.pyplot as plt
+
+      df.plot(x='name',y='salary',kind='bar')
+      plt.xlabel('name')
+      plt.ylabel('salary')
+      plt.title('salary by name')
+      plt.show()
+        
+      
+      
+  
