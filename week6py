@@ -1,0 +1,165 @@
+ ### pandas
+data ={'a':[1,2,np,nan,4,5,], 'b':['apple','banana','cherry','banana','apple'], 'C':[100,200,300,400,500]}
+   df = pd.dataframe(data)
+    df = df.append(df)
+
+# introduce some duplicates
+    DF.LOC[0,'C'] = 1000
+
+# introduce an outlier
+    print (df.head())
+     print (df.info())
+      print (df.discribe)
+
+    df.dropna(inplace = true)
+
+
+
+ # drop rows with missing values 
+     df.drop_duplicate(inplace = true)
+
+ # drop duplicates 
+     df = df[df]['c']< 1000]
+
+ # import- metplotlip.pyplot as - plt
+
+    df.plot(kind = 'bar',x = 'b',y = 'c'
+      title='favourite fruit',xlabel='fruit',ylabel='rating')
+        plt.show()
+ 
+    df.to_cvs('cleaned.cvs', index = false)
+
+
+
+ ### pandas
+data ={'a':[1,2,np,nan,4,5,], 'b':['apple','banana','cherry','banana','apple'], 'C':[100,200,300,400,500]}
+   df = pd.dataframe(data)
+    df = df.append(df)
+
+# introduce some duplicates
+    DF.LOC[0,'C'] = 1000
+
+# introduce an outlier
+    print (df.head())
+     print (df.info())
+      print (df.discribe)
+
+    df.dropna(inplace = true)
+
+
+
+ # drop rows with missing values 
+     df.drop_duplicate(inplace = true)
+
+ # drop duplicates 
+     df = df[df]['c']< 1000]
+
+ # import- metplotlip.pyplot as - plt
+
+    df.plot(kind = 'bar',x = 'b',y = 'c'
+      title='favourite fruit',xlabel='fruit',ylabel='rating')
+        plt.show()
+ 
+    df.to_cvs('cleaned.cvs', index = false)
+
+
+
+ ### pandas
+data ={'a':[1,2,np,nan,4,5,], 'b':['apple','banana','cherry','banana','apple'], 'C':[100,200,300,400,500]}
+   df = pd.dataframe(data)
+    df = df.append(df)
+
+# introduce some duplicates
+    DF.LOC[0,'C'] = 1000
+
+# introduce an outlier
+    print (df.head())
+     print (df.info())
+      print (df.discribe)
+
+    df.dropna(inplace = true)
+
+
+
+ # drop rows with missing values 
+     df.drop_duplicate(inplace = true)
+
+ # drop duplicates 
+     df = df[df]['c']< 1000]
+
+ # import- metplotlip.pyplot as - plt
+
+    df.plot(kind = 'bar',x = 'b',y = 'c'
+      title='favourite fruit',xlabel='fruit',ylabel='rating')
+        plt.show()
+ 
+    df.to_cvs('cleaned.cvs', index = false)
+
+
+
+ ### pandas
+data ={'a':[1,2,np,nan,4,5,], 'b':['apple','banana','cherry','banana','apple'], 'C':[100,200,300,400,500]}
+   df = pd.dataframe(data)
+    df = df.append(df)
+
+# introduce some duplicates
+    DF.LOC[0,'C'] = 1000
+
+# introduce an outlier
+    print (df.head())
+     print (df.info())
+      print (df.discribe)
+
+    df.dropna(inplace = true)
+
+
+
+ # drop rows with missing values 
+     df.drop_duplicate(inplace = true)
+
+ # drop duplicates 
+     df = df[df]['c']< 1000]
+
+ # import- metplotlip.pyplot as - plt
+
+    df.plot(kind = 'bar',x = 'b',y = 'c'
+      title='favourite fruit',xlabel='fruit',ylabel='rating')
+        plt.show()
+ 
+    df.to_cvs('cleaned.cvs', index = false)
+
+
+
+ ### pandas
+data ={'a':[1,2,np,nan,4,5,], 'b':['apple','banana','cherry','banana','apple'], 'C':[100,200,300,400,500]}
+   df = pd.dataframe(data)
+    df = df.append(df)
+
+# introduce some duplicates
+    DF.LOC[0,'C'] = 1000
+
+# introduce an outlier
+    print (df.head())
+     print (df.info())
+      print (df.discribe)
+
+    df.dropna(inplace = true)
+
+
+
+ # drop rows with missing values 
+     df.drop_duplicate(inplace = true)
+
+ # drop duplicates 
+     df = df[df]['c']< 1000]
+
+ # import- metplotlip.pyplot as - plt
+
+    df.plot(kind = 'bar',x = 'b',y = 'c'
+      title='favourite fruit',xlabel='fruit',ylabel='rating')
+        plt.show()
+ 
+    df.to_cvs('cleaned.cvs', index = false)
+
+
+
