@@ -1,0 +1,39 @@
+data = {'name':['zainab'],['ali'],['sadiya'],['amina'],['muhammad'],'age';[25,30,35,40,45],'salary': [50000,60000,75000,90000,80000]}
+ pd.dataframe(data)
+
+# explore the dataset
+print(df.head())
+
+# display the first few rows 
+print(df info())
+
+# get information about the dataset
+ 
+ # data cleaning
+ # no cleaning needed for this example dataset 
+
+ # data tranformation 
+ # no transformation needed for this example dataset 
+ 
+ # data wrangling 
+ # filter rows based on a condition
+ filtered_df = df['salary']> 70000
+
+# aggregating data 
+aggregated_df = df.groupby('age') ['salary']. mean().reset-index()
+
+# save the cleaned and wranged dataset
+df.to_cvs('cleaned_dataset.cvs',index = false)
+
+
+
+
+
+
+
+
+
+
+
+
+ \ 
