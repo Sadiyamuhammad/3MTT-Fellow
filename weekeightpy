@@ -1,0 +1,30 @@
+# load the dataset
+data = pd.read_cvs('data.cvs')
+
+# check for missing values
+missing_values = data.isnull().sum()
+    print("missing values:")
+    print(missing_values)
+
+
+# data inputation using mean 
+data_imputed = 
+data .fillna(data.mean())
+
+# analyze the impact on result - you can perform your analysis here 
+
+# example:compare mean before and after imputation 
+mean_before_imputation = 
+data.mean()
+maen_after_imputation = 
+data_imputated.mean()
+    print("\nmean before imputation:")
+    print(:mean _before-imputation)
+
+    print("\nmean after imputation:")
+    print(mean_after_imputation)
+
+# present insights gained 
+    print("\ninsights:")
+
+# you can add your insight based on the impact of imputation on the dataset
