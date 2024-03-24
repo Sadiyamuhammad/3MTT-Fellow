@@ -1,0 +1,29 @@
+#load your data 
+data = pd.read_csv('your-data.cvs')
+
+#select columns with missing values
+columns_with-missing_values = data.columns[data.isnull().any]
+
+#imputation methods
+#mean imputation = 
+simpleimputation(stategy='maen')
+data_mean_imputated=data.copy()
+data-mean-imputated[columns_with-missing-values]=
+imputer.fit-transform(data[columns_with-missing_values])
+
+#median imputation inputer=simpleimputer(strategy='median)
+data_median_imputed=data.copy()
+data_median-imputed[columns-with_missing-values]=
+imputer.fit_transform(data[columns_with_missing_values])
+
+#k-nearest n eighbors imputation
+imputer = kneighborsregressor(n_neighbors=5)
+data_knn_imputated=data.copy()
+data_knn-imputated[columns_with_missing_values]=imputer.fit_transform()data[columns_with_missing_values]
+
+#analyze impact on result-compare metrics before and after imputation
+
+#present  insight gained
+ 
+# you can analyze  the impact on a result and present them in a tabular format
+
